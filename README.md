@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Samuel AUDIC</h1>
 <h2 align="center">A front-end developer</h2>
-<a style="text-align: center" href="https://samuelaudic.fr/">samuelaudic.fr</a>
+<a style="margin: auto" href="https://samuelaudic.fr/">samuelaudic.fr</a>
 
 <br/>
 
