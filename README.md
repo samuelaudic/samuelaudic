@@ -1,13 +1,13 @@
 <h1 align="center">Hello there 👋, I'm Samuel AUDIC</h1>
-<h2 align="center">A junior front-end dev</h2>
+<h2 align="center">A front-end developer</h2>
 <a align="center" href="https://samuelaudic.fr/">samuelaudic.fr</a>
 
 <br/>
 
 <h3>Connect with me :</h3>
-<p style="display: flex; align-items:center">
+<div style="display: flex; align-items:center">
 <a href="https://www.linkedin.com/in/samuelaudic/" target="blank" style="margin-left:15px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="starc007" height="30" width="30" /></a>
-</p>
+</div>
 
 <h3 >Languages and Tools:</h3>
 <p style="display: flex; align-items:center; flex-wrap: wrap;"> 
