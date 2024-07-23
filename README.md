@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Samuel AUDIC</h1>
-<h2 align="center">A front-end developer</h2>
+<h2 align="center">A fullstack developer</h2>
 <p align="center">
   <a target="_blank" href="https://samuelaudic.fr/">samuelaudic.fr</a>
 </p>
