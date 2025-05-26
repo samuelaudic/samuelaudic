@@ -1,30 +1,61 @@
 <h1 align="center">Hello there 👋, I'm Samuel AUDIC</h1>
-<h2 align="center">A fullstack developer</h2>
+<h2 align="center">Fullstack Developer – TypeScript • Java</h2>
+
 <p align="center">
-  <a target="_blank" href="https://samuelaudic.fr/">samuelaudic.fr</a>
+  <a href="https://samuelaudic.fr/" target="_blank">🌐 samuelaudic.fr</a> •
+  <a href="mailto:samuelaudic@gmail.com">📫 samuelaudic@gmail.com</a>
 </p>
 
-<br/>
+---
 
-<h3>Connect with me :</h3>
-<div style="display: flex; align-items:center">
-<a href="https://www.linkedin.com/in/samuelaudic/" target="blank" style="margin-left:15px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="starc007" height="30" width="30" /></a>
-</div>
+### 💡 About me
 
-<h3>Languages and Tools:</h3>
-<p style="display: flex; align-items:center; flex-wrap: wrap;"> 
+- 💼 Currently open to fullstack developer opportunities (React, TypeScript, Java) – available from October 2025  
+- 🚀 Passionate about clean architecture, maintainable code, and thoughtful UI/UX  
+- 🧠 Currently working with Java (JEE/JSF), React, and Next.js, combining backend APIs with responsive frontends 
+- 🌍 Always learning – TypeScript, CI/CD pipelines, and scalable fullstack architecture
 
+---
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" alt="docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+### 🤝 Connect with me
 
+<p>
+  <a href="https://www.linkedin.com/in/samuelaudic/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
 </p>
+
+---
+
+### 🛠️ Languages and Tools
+
+**Frontend**  
+React • Next.js • TypeScript • HTML5 • CSS3 • JSF
+
+**Backend**  
+Java • Spring Boot • PHP • Node.js • AdonisJS
+
+**Databases**  
+PostgreSQL • MySQL • MongoDB • SQL Server
+
+**DevOps & Tools**  
+Docker • Git • GitHub • Azure • AWS • GitHub Actions • Vercel
+
+**CMS & No-code**  
+WordPress • PrestaShop • Bubble
+
+**Design & Prototyping**  
+Figma • Adobe Creative Suite
+
+---
+
+### 🚀 Projects I'm proud of
+
+- [**Frag**](https://www.samuelaudic.fr/projects/frag) – File upload and compression<br />
+  Fullstack app for optimized file storage using fragmentation, compression, and deduplication. Built with React and Spring Boot, featuring dynamic chunking and a dashboard for compression stats.
+
+- [**Chuchote**](https://chuchote.vercel.app) – Article summaries by AI<br />
+  Built with Next.js 15, OpenAI GPT-4o, and NextAuth, it delivers fast, accessible AI summaries with native speech and local history.
+
+- [**Portfolio**](https://samuelaudic.fr) – Interactive personal website  
+  Built with React, Next.js, and SCSS, this responsive portfolio showcases projects and animations with a modern aesthetic.
