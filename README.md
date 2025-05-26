@@ -2,8 +2,9 @@
 <h2 align="center">Fullstack Developer – TypeScript • Java</h2>
 
 <p align="center">
-  <a href="https://samuelaudic.fr/" target="_blank">🌐 samuelaudic.fr</a> •
-  <a href="mailto:samuelaudic@gmail.com">📫 samuelaudic@gmail.com</a>
+  <a href="https://samuelaudic.fr/" target="_blank">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/samuelaudic/" target="_blank">💼 LinkedIn</a> •
+  <a href="mailto:samuelaudic@gmail.com">📫 Email</a>
 </p>
 
 ---
@@ -14,16 +15,6 @@
 - 🚀 Passionate about clean architecture, maintainable code, and thoughtful UI/UX  
 - 🧠 Currently working with Java (JEE/JSF), React, and Next.js, combining backend APIs with responsive frontends 
 - 🌍 Always learning – TypeScript, CI/CD pipelines, and scalable fullstack architecture
-
----
-
-### 🤝 Connect with me
-
-<p>
-  <a href="https://www.linkedin.com/in/samuelaudic/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
-  </a>
-</p>
 
 ---
 
