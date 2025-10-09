@@ -11,7 +11,7 @@
 
 ### 💡 About me
 
-- 💼 Currently open to fullstack developer opportunities (React, TypeScript, Java) – available from October 2025  
+- 💼 Currently open to fullstack developer opportunities (React, TypeScript, Java) – available now !
 - 🚀 Passionate about clean architecture, maintainable code, and thoughtful UI/UX  
 - 🧠 Currently working with Java (JEE/JSF), React, and Next.js, combining backend APIs with responsive frontends 
 - 🌍 Always learning – TypeScript, CI/CD pipelines, and scalable fullstack architecture
