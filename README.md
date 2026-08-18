@@ -1,57 +1,53 @@
-<h1 align="center">Hello there 👋, I'm Samuel AUDIC</h1>
-<h2 align="center">Java Backend Developer – Spring Boot & APIs | Java / TypeScript</h2>
+<h1 align="center">👋 Hi, I'm Samuel AUDIC</h1>
 
 <p align="center">
-  <a href="https://samuelaudic.fr/" target="_blank">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/samuelaudic/" target="_blank">💼 LinkedIn</a> •
-  <a href="mailto:samuelaudic@gmail.com">📫 Email</a>
+  <b>Fullstack Developer</b> • Java • Spring Boot • TypeScript
+</p>
+
+<p align="center">
+  Building scalable applications, clean APIs, and modern web experiences.
+</p>
+
+<p align="center">
+  <a href="https://samuelaudic.fr">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/samuelaudic/">💼 LinkedIn</a> •
+  <a href="mailto:samuelaudic@gmail.com">📫 Contact</a>
 </p>
 
 ---
 
-### 💡 About me
+## 🚀 About Me
 
-- 💼 Java backend developer open to CDI opportunities (Java / Spring Boot), available now  
-- 🚀 Strong focus on clean architecture, maintainable code, and backend reliability  
-- 🧠 Experience building backend APIs in Java (Spring Boot, JPA) within fullstack environments  
-- 🤝 Comfortable collaborating with frontend teams (Angular, React) for API integration  
-- 🌍 Always learning: CI/CD pipelines, scalable architectures, and modern Java ecosystems  
+- ☕ Strong backend expertise with **Java & Spring Boot**
+- ⚛️ Developing fullstack applications with **React, Angular & TypeScript**
+- 🏗️ Focused on **clean architecture**, maintainability, and performance
+- ☁️ Interested in Cloud, DevOps, and modern software engineering practices
 
----
-
-### 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
 **Backend**  
-Java • Spring Boot • JPA / Hibernate • PHP • Node.js
+`Java` `Spring Boot` `Spring Batch` `Hibernate` `Node.js` `PHP`
 
-**Frontend (environment)**  
-Angular • React • Next.js • TypeScript • HTML5 • CSS3 • JSF
+**Frontend**  
+`TypeScript` `React` `Next.js` `Angular`
 
-**Databases**  
-PostgreSQL • MySQL • MongoDB • SQL Server
+**Database**  
+`PostgreSQL` `MySQL` `MongoDB` `SQL Server`
 
-**DevOps & Tools**  
-Docker • Git • GitHub • GitHub Actions • Azure • AWS • Vercel
+**Cloud & DevOps**  
+`Docker` `GitHub Actions` `Azure` `AWS`
 
-**CMS & No-code**  
-WordPress • PrestaShop • Bubble
+## 🌟 Featured Projects
 
-**Design & Prototyping**  
-Figma • Adobe Creative Suite
+### 🎴 Sleeved
+Collectible platform built with **Spring Boot**, **Spring Batch** and a microservices architecture.
+
+### 📦 Frag
+File processing and storage optimization platform built with **Spring Boot** and **React**.
+
+### 🤖 Chuchote
+AI-powered article summarization platform built with **Next.js**, **OpenAI** and **NextAuth**.
+
+➡️ More projects: **https://samuelaudic.fr/projects**
 
 ---
-
-### 🚀 Projects I'm proud of
-
-- [**Sleeved**](https://www.samuelaudic.fr/projects/sleeved) – Mobile-first collectible platform  
-  Flagship academic project developed as a long-running product case study, close to real-world startup conditions.  
-  Backend contributions focused on **Java Spring Boot & Spring Batch**, business rules, batch processing, and microservices architecture.  
-  Strong collaboration with mobile, AI, and DevOps teams.
-
-- [**Frag**](https://www.samuelaudic.fr/projects/frag) – File upload and compression platform  
-  Fullstack application focused on backend performance and data optimization.  
-  Built with **Spring Boot & React**, featuring fragmentation, compression, deduplication, and a dashboard exposing storage metrics.
-
-- [**Chuchote**](https://chuchote.vercel.app) – AI-powered article summaries  
-  Web application focused on clean API integration and performance.  
-  Built with **Next.js 15**, OpenAI GPT-4o, and NextAuth, with accessibility and local history features.
